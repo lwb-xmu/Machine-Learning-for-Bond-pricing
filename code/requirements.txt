@@ -1,0 +1,8 @@
+# 操作系统版本
+Windows 10 家庭中文版，操作系统内部版本：19042.985
+# Python版本
+Python==3.7.5
+# 包版本
+pandas==1.2.4
+numpy==1.19.2
+tensorflow==2.4.1
